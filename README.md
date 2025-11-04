@@ -33,4 +33,4 @@ Because I didn't find a good textEditor on the internet when I was creating a gu
 
 You can try: -Enter mixed Chinese and English text. -Use the mouse to select text. -use Ctrl+C/V/X to copy, paste and cut. -use the arrow keys, Home and End keys to navigate. -press Tab to insert indentation. -Press F1 to toggle word wrap. -Press F2 to switch the line number display
 
-There is a download connection that expires in 15 days: https://send.now/ac2hf8b1cm55. It is safe. Welcome comments！!！
+url:https://github.com/lmmgh-ai/love2d.inner.EditorText
