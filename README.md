@@ -1,4 +1,4 @@
-# The new text editor supports utf8.
+# The new love2d inner text editor supports utf8.
 
 
 
